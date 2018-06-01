@@ -1,0 +1,1448 @@
+Creator "igraph version 0.7.1 Thu May 31 15:43:20 2018"
+Version 1
+graph
+[
+  directed 1
+  node
+  [
+    id 0
+    label "El Vez"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 1
+    label "The Sugarcubes"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 2
+    label "Johnny Triumph"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 3
+    label "Jeanne"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 4
+    label "Mandragora"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 5
+    label "Szalóki Ági"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 6
+    label "Ron Williams"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 7
+    label "The Baghdaddies"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 8
+    label "Phil Thornton"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 9
+    label "Herczku Ágnes"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 10
+    label "Bognár Szilvia"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 11
+    label "Apostles of the Interface"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 12
+    label "Nana Obscuri"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 13
+    label "Hossam Ramzy"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 14
+    label "Steven Cragg"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 15
+    label "Mandragora"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 16
+    label "Dobroudja Ensemble"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 17
+    label "Szalonna & His Band"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 18
+    label "Nikola Parov"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 19
+    label "Kónya István"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 20
+    label "Heather Grabham"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 21
+    label "Mariken Boussemaere"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 22
+    label "Kadril"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 23
+    label "Rafa El Tachuela"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 24
+    label "Sarvar Sabri"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 25
+    label "Essam Rashad"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 26
+    label "Ulrich Stiegler"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 27
+    label "أسامة الهندي"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 28
+    label "José Luis Montón"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 29
+    label "Manu Katché"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 30
+    label "Jimmy Waldo"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 31
+    label "Elhamy Ezzat"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 32
+    label "廣田丈自"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 33
+    label "Tim Pierce"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 34
+    label "Houda El Sombaty"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 35
+    label "Nahini Doumbia"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 36
+    label "Chaz DaBat Kkoshi"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 37
+    label "رأفت ميسو"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 38
+    label "ماجد سرور"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 39
+    label "Mohsen Allaam"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 40
+    label "Kenny Ball"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 41
+    label "Martin Solveig"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 42
+    label "Pablo Cárcamo"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 43
+    label "RLP"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 44
+    label "A. R. Rahman"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 45
+    label "Billy Cobham"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 46
+    label "Omar Faruk Tekbilek"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 47
+    label "Africanism All Stars"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 48
+    label "The Jive Aces"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 49
+    label "Alumea"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 50
+    label "Suhail Yusuf Khan"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 51
+    label "Sabri Khan"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 52
+    label "Kamal Sabri"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 53
+    label "Ara Malikian"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 54
+    label "Wolf"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 55
+    label "Song Williamson"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 56
+    label "Claudia Campagnol"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 57
+    label "Kim Kashkashian"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 58
+    label "Peter Gabriel"
+    color "white"
+    size 60
+  ]
+  node
+  [
+    id 59
+    label "Sting"
+    color "white"
+    size 60
+  ]
+  edge
+  [
+    source 1
+    target 2
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 0
+    target 1
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 4
+    target 5
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 4
+    target 6
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 3
+    target 4
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 5
+    target 9
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 5
+    target 6
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 7
+    target 12
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 4
+    target 7
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 8
+    target 13
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 8
+    target 14
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 8
+    target 15
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 8
+    target 16
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 4
+    target 8
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 9
+    target 17
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 9
+    target 10
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 10
+    target 19
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 5
+    target 10
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 10
+    target 20
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 10
+    target 21
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 6
+    target 11
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 13
+    target 23
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 24
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 25
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 26
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 27
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 28
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 29
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 30
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 31
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 32
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 33
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 34
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 35
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 36
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 37
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 38
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 39
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 13
+    target 40
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 9
+    target 18
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 20
+    target 21
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 22
+    target 49
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 20
+    target 22
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 21
+    target 22
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 10
+    target 22
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 24
+    target 50
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 24
+    target 51
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 24
+    target 52
+    width 2.5
+    color "black"
+  ]
+  edge
+  [
+    source 28
+    target 53
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 29
+    target 54
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 29
+    target 55
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 29
+    target 56
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 29
+    target 57
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 30
+    target 31
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 33
+    target 34
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 41
+    width 1.5
+    color "blue"
+  ]
+  edge
+  [
+    source 41
+    target 47
+    width 3
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 42
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 26
+    target 42
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 43
+    width 1.5
+    color "blue"
+  ]
+  edge
+  [
+    source 13
+    target 44
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 36
+    target 44
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 45
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 46
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 47
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 13
+    target 48
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 40
+    target 48
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 50
+    target 51
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 50
+    target 52
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 51
+    target 52
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 29
+    target 58
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 58
+    target 59
+    width 4.5
+    color "blue"
+  ]
+  edge
+  [
+    source 29
+    target 59
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 2
+    target 1
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 1
+    target 0
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 5
+    target 4
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 6
+    target 4
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 4
+    target 3
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 9
+    target 5
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 6
+    target 5
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 12
+    target 7
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 7
+    target 4
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 13
+    target 8
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 14
+    target 8
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 15
+    target 8
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 16
+    target 8
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 8
+    target 4
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 17
+    target 9
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 10
+    target 9
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 19
+    target 10
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 10
+    target 5
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 20
+    target 10
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 21
+    target 10
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 11
+    target 6
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 23
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 24
+    target 13
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 25
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 26
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 27
+    target 13
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 28
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 29
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 30
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 31
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 32
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 33
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 34
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 35
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 36
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 37
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 38
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 39
+    target 13
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 40
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 18
+    target 9
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 21
+    target 20
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 49
+    target 22
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 22
+    target 20
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 22
+    target 21
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 22
+    target 10
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 50
+    target 24
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 51
+    target 24
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 52
+    target 24
+    width 2.5
+    color "black"
+  ]
+  edge
+  [
+    source 53
+    target 28
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 54
+    target 29
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 55
+    target 29
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 56
+    target 29
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 57
+    target 29
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 31
+    target 30
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 34
+    target 33
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 41
+    target 13
+    width 1.5
+    color "blue"
+  ]
+  edge
+  [
+    source 47
+    target 41
+    width 3
+    color "black"
+  ]
+  edge
+  [
+    source 42
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 42
+    target 26
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 43
+    target 13
+    width 1.5
+    color "blue"
+  ]
+  edge
+  [
+    source 44
+    target 13
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 44
+    target 36
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 45
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 46
+    target 13
+    width 1
+    color "black"
+  ]
+  edge
+  [
+    source 47
+    target 13
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 48
+    target 13
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 48
+    target 40
+    width 1
+    color "blue"
+  ]
+  edge
+  [
+    source 51
+    target 50
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 52
+    target 50
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 52
+    target 51
+    width 2
+    color "black"
+  ]
+  edge
+  [
+    source 58
+    target 29
+    width 1.5
+    color "black"
+  ]
+  edge
+  [
+    source 59
+    target 58
+    width 4.5
+    color "blue"
+  ]
+  edge
+  [
+    source 59
+    target 29
+    width 1
+    color "black"
+  ]
+]

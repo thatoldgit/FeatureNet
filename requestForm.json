@@ -1,0 +1,17 @@
+{
+ "areas": [
+   {
+     "type": "CONTINENT",
+     "name": "Europe"
+   },
+   {
+     "type": "CONTINENT",
+     "name": "North America"
+   }
+ ],
+ "selfReferences": false,
+ "minReleases": 0,
+ "minFeatures": 3,
+  "minAmount":2,
+  "maxEntries": 20
+}
